@@ -1,14 +1,15 @@
-# Discord DeepSeekR1 Botu | Cexha
+# Discord DeepSeekR1 Botu | Cexha 🤖
+- Tek yapmanız gereken, `config.json` dosyasındaki **token** ve **channelID** değerlerini doldurmaktır.
+- Bot, yalnızca belirttiğiniz `channelID` değerindeki kanaldaki mesajlara cevap verir.
 
-- Tek yapmanız gerekenler config.json dosyasındaki **token ve channelid** yi doldurmaktır.
-
-- Bot sadece belirttiğiniz kanal idsindeki kanaldaki mesajlara cevap verir.
-
-## Lisans
+## Lisans ⚖️
 - Lisans şartları geçerlidir.
-- Kopyalayana yasal işlem başlatılır.
+- Lisansın izinsiz kopyalanması durumunda yasal işlem başlatılır.
 
+### ❔ [Support](https://discord.gg/hsKQhtWBep)
 
-### İletişim
+# Credits ✨
+**Made by [Cexha](https://github.com/Cexha) and [AlestiaDev Development](https://github.com/AlestiaDev)**
 
-- [#0001](http://discord.com/users/1235350793222361281 "Cexha.a")
+# Contact, Support & Donate 💡
+Coming Soon ⏳
